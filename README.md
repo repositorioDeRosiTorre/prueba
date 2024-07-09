@@ -7,6 +7,6 @@ _letra cursiva_
 
 Manera de **resaltar en negritas** palabras en un parrafo.
 
-**__Negritas y cursiva__**
+__**Negritas y cursiva**__
 
 
