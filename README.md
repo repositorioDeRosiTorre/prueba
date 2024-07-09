@@ -11,3 +11,4 @@ Manera de **resaltar en negritas** palabras en un parrafo.
 salto de linea </br>
 | Proyecto | Descripción |
 | :---: | :--- |
+| Columna 1 | Columna 2, el ancho se adapta al texto |
